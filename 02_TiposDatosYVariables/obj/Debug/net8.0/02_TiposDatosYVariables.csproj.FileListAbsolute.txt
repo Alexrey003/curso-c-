@@ -1,0 +1,15 @@
+E:\Cursos\curso-c#\02_TiposDatosYVariables\bin\Debug\net8.0\02_TiposDatosYVariables.exe
+E:\Cursos\curso-c#\02_TiposDatosYVariables\bin\Debug\net8.0\02_TiposDatosYVariables.deps.json
+E:\Cursos\curso-c#\02_TiposDatosYVariables\bin\Debug\net8.0\02_TiposDatosYVariables.runtimeconfig.json
+E:\Cursos\curso-c#\02_TiposDatosYVariables\bin\Debug\net8.0\02_TiposDatosYVariables.dll
+E:\Cursos\curso-c#\02_TiposDatosYVariables\bin\Debug\net8.0\02_TiposDatosYVariables.pdb
+E:\Cursos\curso-c#\02_TiposDatosYVariables\obj\Debug\net8.0\02_TiposDatosYVariables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\curso-c#\02_TiposDatosYVariables\obj\Debug\net8.0\02_TiposDatosYVariables.AssemblyInfoInputs.cache
+E:\Cursos\curso-c#\02_TiposDatosYVariables\obj\Debug\net8.0\02_TiposDatosYVariables.AssemblyInfo.cs
+E:\Cursos\curso-c#\02_TiposDatosYVariables\obj\Debug\net8.0\02_TiposDatosYVariables.csproj.CoreCompileInputs.cache
+E:\Cursos\curso-c#\02_TiposDatosYVariables\obj\Debug\net8.0\02_TiposDatosYVariables.sourcelink.json
+E:\Cursos\curso-c#\02_TiposDatosYVariables\obj\Debug\net8.0\02_TiposDatosYVariables.dll
+E:\Cursos\curso-c#\02_TiposDatosYVariables\obj\Debug\net8.0\refint\02_TiposDatosYVariables.dll
+E:\Cursos\curso-c#\02_TiposDatosYVariables\obj\Debug\net8.0\02_TiposDatosYVariables.pdb
+E:\Cursos\curso-c#\02_TiposDatosYVariables\obj\Debug\net8.0\02_TiposDatosYVariables.genruntimeconfig.cache
+E:\Cursos\curso-c#\02_TiposDatosYVariables\obj\Debug\net8.0\ref\02_TiposDatosYVariables.dll
