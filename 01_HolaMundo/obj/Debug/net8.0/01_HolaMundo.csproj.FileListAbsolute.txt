@@ -1,0 +1,14 @@
+e:\Cursos\curso-c#\01_HolaMundo\bin\Debug\net8.0\01_HolaMundo.exe
+e:\Cursos\curso-c#\01_HolaMundo\bin\Debug\net8.0\01_HolaMundo.deps.json
+e:\Cursos\curso-c#\01_HolaMundo\bin\Debug\net8.0\01_HolaMundo.runtimeconfig.json
+e:\Cursos\curso-c#\01_HolaMundo\bin\Debug\net8.0\01_HolaMundo.dll
+e:\Cursos\curso-c#\01_HolaMundo\bin\Debug\net8.0\01_HolaMundo.pdb
+e:\Cursos\curso-c#\01_HolaMundo\obj\Debug\net8.0\01_HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+e:\Cursos\curso-c#\01_HolaMundo\obj\Debug\net8.0\01_HolaMundo.AssemblyInfoInputs.cache
+e:\Cursos\curso-c#\01_HolaMundo\obj\Debug\net8.0\01_HolaMundo.AssemblyInfo.cs
+e:\Cursos\curso-c#\01_HolaMundo\obj\Debug\net8.0\01_HolaMundo.csproj.CoreCompileInputs.cache
+e:\Cursos\curso-c#\01_HolaMundo\obj\Debug\net8.0\01_HolaMundo.dll
+e:\Cursos\curso-c#\01_HolaMundo\obj\Debug\net8.0\refint\01_HolaMundo.dll
+e:\Cursos\curso-c#\01_HolaMundo\obj\Debug\net8.0\01_HolaMundo.pdb
+e:\Cursos\curso-c#\01_HolaMundo\obj\Debug\net8.0\01_HolaMundo.genruntimeconfig.cache
+e:\Cursos\curso-c#\01_HolaMundo\obj\Debug\net8.0\ref\01_HolaMundo.dll
